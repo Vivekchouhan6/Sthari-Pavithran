@@ -1,1 +1,1 @@
-# Sthari-Pavithran
+This project involves designing an automated smoke filtration system that efficiently removes excess smoke from an enclosed space. The system utilizes a combination of DC motors, an exhaust fan, servo motors, and water-based filtration technology to capture and condense smoke particles onto a water surface, improving air quality. The entire setup is controlled by an Arduino Mega microcontroller.
